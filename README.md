@@ -11,6 +11,7 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions �
 
 ## 🛠️ Skills and Technologies
 
+![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=TypeScript&logoColor=white&color=2D79C7)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=CSS3&logoColor=white&color=E34F26)
