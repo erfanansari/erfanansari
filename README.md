@@ -27,6 +27,18 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions ð
 ![](https://img.shields.io/badge/GraphQL-informational?style=flat-square&logo=graphql&logoColor=white&color=D932A2)
 ![](https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&logoColor=white&color=666ba3)
 ![](https://img.shields.io/badge/Laravel-informational?style=flat-square&logo=laravel&logoColor=white&color=E4392C)
+![](https://img.shields.io/badge/Sass-informational?style=flat-square&logo=sass&logoColor=white&color=C36291)
+![](https://img.shields.io/badge/Laravel-informational?style=flat-square&logo=laravel&logoColor=white&color=E4392C)
+![](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=white&color=2B3A42)
+![](https://img.shields.io/badge/Babel-informational?style=flat-square&logo=babel&logoColor=white&color=F5DA55)
+![](https://img.shields.io/badge/Express-informational?style=flat-square&logo=express&logoColor=white&color=010101)
+![](https://img.shields.io/badge/MUI-informational?style=flat-square&logo=material-ui&logoColor=white&color=007FFF)
+![](https://img.shields.io/badge/VIM-informational?style=flat-square&logo=vim&logoColor=white&color=019030)
+![](https://img.shields.io/badge/Styled--Components-informational?style=flat-square&logo=styled-components&logoColor=white&color=DB7093)
+![](https://img.shields.io/badge/VIM-informational?style=flat-square&logo=vim&logoColor=white&color=019030)
+![](https://img.shields.io/badge/npm-informational?style=flat-square&logo=npm&logoColor=white&color=C2312E)
+![](https://img.shields.io/badge/yarn-informational?style=flat-square&logo=yarn&logoColor=white&color=3895BE)
+![](https://img.shields.io/badge/VIM-informational?style=flat-square&logo=vim&logoColor=white&color=019030)
 
 
 <!-- ![](https://img.shields.io/badge/Canva-informational?style=flat-sqaure&logo=Canva&logoColor=white&color=00C4CC) -->
