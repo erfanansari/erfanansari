@@ -6,9 +6,7 @@ I'm a Frontend Developer based in Iran
 
 I'd describe myself as a craftsman who crafts quality and accessible solutions 🌠
 
-🛠️ Skills and Technologies
-
-<img src="https://gpvc.arturio.dev/abxhr" alt="profile views">
+<img src="https://gpvc.arturio.dev/erfanansari" alt="profile views">
 
 I'm Abshar, an Undergraduate Computer Science Student at BITS Pilani Dubai Campus 🎓
 
@@ -55,15 +53,15 @@ I'm Abshar, an Undergraduate Computer Science Student at BITS Pilani Dubai Campu
 ## 📊 My GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abxhr&theme=highcontrast"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=erfanansari&theme=highcontrast"/>
 </div>
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div align="center">
     <br/>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="abxhr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abxhr&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="abxhr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abxhr&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="erfanansari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=erfanansari&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="erfanansari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanansari&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
     <br/>
   </div>
   <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
@@ -72,18 +70,18 @@ I'm Abshar, an Undergraduate Computer Science Student at BITS Pilani Dubai Campu
 ## 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 45](https://abxhr-learning.vercel.app//hdoc/Day-45/)
-- [Day 44](https://abxhr-learning.vercel.app//hdoc/Day-44/)
-- [Day 43](https://abxhr-learning.vercel.app//hdoc/Day-43/)
-- [Day 42](https://abxhr-learning.vercel.app//hdoc/Day-42/)
+- [Day 45](https://erfanansari-learning.vercel.app//hdoc/Day-45/)
+- [Day 44](https://erfanansari-learning.vercel.app//hdoc/Day-44/)
+- [Day 43](https://erfanansari-learning.vercel.app//hdoc/Day-43/)
+- [Day 42](https://erfanansari-learning.vercel.app//hdoc/Day-42/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🙋‍♂️ Connect with me
 
 <p align="center">
-    <a href="https://twitter.com/abxhraslam"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://twitter.com/erfanansari"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/absharaslam/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/abxhr/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.instagram.com/erfanansari/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     
 </p>
 
