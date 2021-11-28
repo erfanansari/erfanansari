@@ -15,7 +15,7 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions ð
 ![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=CSS3&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/Markdown-informational?style=flat-sqaure&logo=Markdown&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Git-informational&logo=Git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/Git-informational?style=flat-sqaure&logo=Git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat-sqaure&logo=GitHub&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/Vercel-informational?style=flat-sqaure&logo=Vercel&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat-sqaure&logo=Heroku&logoColor=white&color=430098)
