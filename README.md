@@ -73,16 +73,16 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions �
   <img src="https://github-readme-streak-stats.herokuapp.com?user=erfanansari&theme=highcontrast"/>
 </div>
 
-<details> 
+<!-- <details>  -->
 <!--   <summary>💻 GitHub Profile Stats</summary> -->
-  <div align="center">
+  <div align="center" style="display:flex">
     <br/>
         <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="erfanansari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=erfanansari&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="erfanansari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanansari&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
     <br/>
   </div>
   <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
-</details>
+<!-- </details> -->
 
 ## 📕 Blog posts
 
