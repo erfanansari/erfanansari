@@ -28,7 +28,6 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions ð
 ![](https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&logoColor=white&color=666ba3)
 ![](https://img.shields.io/badge/Laravel-informational?style=flat-square&logo=laravel&logoColor=white&color=E4392C)
 ![](https://img.shields.io/badge/Sass-informational?style=flat-square&logo=sass&logoColor=white&color=C36291)
-![](https://img.shields.io/badge/Laravel-informational?style=flat-square&logo=laravel&logoColor=white&color=E4392C)
 ![](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=white&color=2B3A42)
 ![](https://img.shields.io/badge/Babel-informational?style=flat-square&logo=babel&logoColor=white&color=F5DA55)
 ![](https://img.shields.io/badge/Express-informational?style=flat-square&logo=express&logoColor=white&color=010101)
