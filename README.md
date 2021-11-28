@@ -74,7 +74,7 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions �
 </div>
 
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+<!--   <summary>💻 GitHub Profile Stats</summary> -->
   <div align="center">
     <br/>
         <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="erfanansari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=erfanansari&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
