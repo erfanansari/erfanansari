@@ -8,8 +8,6 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions �
 
 <img src="https://gpvc.arturio.dev/erfanansari" alt="profile views">
 
-I'm Abshar, an Undergraduate Computer Science Student at BITS Pilani Dubai Campus 🎓
-
 
 ## 🛠️ Skills and Technologies
 
