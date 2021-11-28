@@ -13,16 +13,17 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions ð
 
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=TypeScript&logoColor=white&color=2D79C7)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/React-%23327FC7.svg?style=flat-square&logo=react&logoColor=aDAFB&color=32363E)
 ![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=CSS3&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/Markdown-informational?style=flat-square&logo=Markdown&logoColor=white&color=000000)
+![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=CSS3&logoColor=white&color=1968a0)
 ![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=Git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=GitHub&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/Vercel-informational?style=flat-square&logo=Vercel&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat-square&logo=Heroku&logoColor=white&color=430098)
-![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
-![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)
-![](https://img.shields.io/badge/React-%23327FC7.svg?style=flat-square&logo=react&logoColor=aDAFB&color=32363E)
+![](https://img.shields.io/badge/Markdown-informational?style=flat-square&logo=Markdown&logoColor=white&color=000000)
+
 
 
 <!-- ![](https://img.shields.io/badge/Canva-informational?style=flat-sqaure&logo=Canva&logoColor=white&color=00C4CC) -->
