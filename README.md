@@ -36,6 +36,8 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions ð
 ![](https://img.shields.io/badge/Styled--Components-informational?style=flat-square&logo=styled-components&logoColor=white&color=DB7093)
 ![](https://img.shields.io/badge/npm-informational?style=flat-square&logo=npm&logoColor=white&color=C2312E)
 ![](https://img.shields.io/badge/yarn-informational?style=flat-square&logo=yarn&logoColor=white&color=3895BE)
+![](https://img.shields.io/badge/tailwindcss-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=16B7EB)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=7311EC)
 ![](https://img.shields.io/badge/VIM-informational?style=flat-square&logo=vim&logoColor=white&color=019030)
 
 
