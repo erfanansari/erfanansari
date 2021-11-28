@@ -73,7 +73,7 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions ð
   <img src="https://github-readme-streak-stats.herokuapp.com?user=erfanansari&theme=highcontrast"/>
 </div>
 
-<details> 
+<!-- <details>  -->
   <summary>ðŸ’» GitHub Profile Stats</summary>
   <div align="center">
     <br/>
@@ -82,7 +82,7 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions ð
     <br/>
   </div>
   <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
-</details>
+<!-- </details> -->
 
 ## ðŸ“• Blog posts
 
