@@ -23,7 +23,10 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions ð
 ![](https://img.shields.io/badge/Vercel-informational?style=flat-square&logo=Vercel&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat-square&logo=Heroku&logoColor=white&color=430098)
 ![](https://img.shields.io/badge/Markdown-informational?style=flat-square&logo=Markdown&logoColor=white&color=000000)
-
+![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=0FA24C)
+![](https://img.shields.io/badge/GraphQL-informational?style=flat-square&logo=graphql&logoColor=white&color=D932A2)
+![](https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&logoColor=white&color=666ba3)
+![](https://img.shields.io/badge/Laravel-informational?style=flat-square&logo=laravel&logoColor=white&color=E4392C)
 
 
 <!-- ![](https://img.shields.io/badge/Canva-informational?style=flat-sqaure&logo=Canva&logoColor=white&color=00C4CC) -->
