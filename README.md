@@ -100,13 +100,9 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions �
       <img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-DE4032?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://t.me/erfanansari" style="text-decoration: none">
-      <img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-1C8CC5?style=for-the-badge&logo=telegram&logoColor=white"/>
+      <img alt="Telegram" title="Telegram" style="text-decoration: none" src="https://img.shields.io/badge/Telegram-1C8CC5?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
 </p>
-
-<style type="text/css" rel="stylesheet">
-* { color: red; }
-</style>
 
 <!--
 **erfanansari/erfanansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
