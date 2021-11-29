@@ -90,7 +90,7 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions �
 - [Virgool](https://virgool.io/@erfanansari)
 <!-- BLOG-POST-LIST:END -->
 
-## Connect with me
+## 🙋‍♂️ Connect with me
 
 <p align="center">
     <a href="https://www.linkedin.com/in/erfanansari/"><img alt="Linkedin" title="linkedin.com/in/erfanansari" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
