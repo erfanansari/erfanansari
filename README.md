@@ -84,13 +84,10 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions �
   <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
 </details>
 
-## 📕 Blog posts
+## ✏ Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 45](https://erfanansari-learning.vercel.app//hdoc/Day-45/)
-- [Day 44](https://erfanansari-learning.vercel.app//hdoc/Day-44/)
-- [Day 43](https://erfanansari-learning.vercel.app//hdoc/Day-43/)
-- [Day 42](https://erfanansari-learning.vercel.app//hdoc/Day-42/)
+- [Virgool](https://virgool.io/@erfanansari)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🙋‍♂️ Connect with me
