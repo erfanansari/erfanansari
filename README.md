@@ -94,10 +94,10 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions ð
 
 <p align="center">
     <a href="https://www.linkedin.com/in/erfanansari/" style="text-decoration: underline">
-      <img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img alt="Linkedin" title="LinkedIn" style="text-decoration: none" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:dev.erfanansari@gmail.com" style="text-decoration: none">
-      <img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-DE4032?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img alt="Gmail" title="Gmail" style="text-decoration: none" src="https://img.shields.io/badge/Gmail-DE4032?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://t.me/erfanansari" style="text-decoration: none">
       <img alt="Telegram" title="Telegram" style="text-decoration: none" src="https://img.shields.io/badge/Telegram-1C8CC5?style=for-the-badge&logo=telegram&logoColor=white"/>
