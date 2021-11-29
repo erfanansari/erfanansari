@@ -93,7 +93,7 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions ð
 ## Connect with me
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/erfanansari/" style="text-decoration: none">
+    <a href="https://www.linkedin.com/in/erfanansari/" style="text-decoration: underline">
       <img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:dev.erfanansari@gmail.com" style="text-decoration: none">
