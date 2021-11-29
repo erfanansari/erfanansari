@@ -93,14 +93,9 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions ð
 ## Connect with me
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/erfanansari/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:dev.erfanansari@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-DE4032?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://t.me/erfanansari"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-1C8CC5?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<!--     <a href="https://twitter.com/abxhraslam"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/absharaslam/">
-      <img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://www.instagram.com/abxhr/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> -->
+    <a href="https://www.linkedin.com/in/erfanansari/"><img alt="Linkedin" title="linkedin.com/in/erfanansari" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:dev.erfanansari@gmail.com"><img alt="Gmail" title="dev.erfanansari@gmail.com" src="https://img.shields.io/badge/Gmail-DE4032?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://t.me/erfanansari"><img alt="Telegram" title="t.me/wizard_developer" src="https://img.shields.io/badge/Telegram-1C8CC5?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 <!--
