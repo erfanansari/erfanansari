@@ -6,7 +6,8 @@ I'm a Frontend Developer based in Iran
 
 I'd describe myself as a craftsman who crafts quality and accessible solutions 🌠
 
-<img src="https://gpvc.arturio.dev/erfanansari" alt="profile views">
+<!-- <img src="https://gpvc.arturio.dev/erfanansari" alt="profile views"> -->
+<p align="left"><img src="https://komarev.com/ghpvc/?username=erfanansari&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 
 ## 🛠️ Skills and Technologies
