@@ -96,7 +96,7 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions ð
 <p align="center">
     <a href="https://www.linkedin.com/in/erfanansari/"><img alt="Linkedin" title="linkedin.com/in/erfanansari" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:dev.erfanansari@gmail.com"><img alt="Gmail" title="dev.erfanansari@gmail.com" src="https://img.shields.io/badge/Gmail-DE4032?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://t.me/wizard_developer"><img alt="Telegram" title="t.me/wizard_developer" src="https://img.shields.io/badge/Telegram-1C8CC5?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://t.me/erfanhimself"><img alt="Telegram" title="t.me/erfanhimself" src="https://img.shields.io/badge/Telegram-1C8CC5?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 <!--
