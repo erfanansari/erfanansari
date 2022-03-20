@@ -13,34 +13,34 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions 
 ## üõ†Ô∏è Skills and Technologies
 <!-- [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/) -->
 [![typescript](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=TypeScript&logoColor=white&color=2D79C7)](https://typescriptlang.org)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/React-%23327FC7.svg?style=flat-square&logo=react&logoColor=aDAFB&color=32363E)
-![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=CSS3&logoColor=white&color=1968a0)
-![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=Git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
-![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)
-![](https://img.shields.io/badge/docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=GitHub&logoColor=white&color=181717)
-![](https://img.shields.io/badge/Vercel-informational?style=flat-square&logo=Vercel&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Heroku-informational?style=flat-square&logo=Heroku&logoColor=white&color=430098)
-![](https://img.shields.io/badge/Markdown-informational?style=flat-square&logo=Markdown&logoColor=white&color=000000)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=0FA24C)
-![](https://img.shields.io/badge/GraphQL-informational?style=flat-square&logo=graphql&logoColor=white&color=D932A2)
-![](https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&logoColor=white&color=666ba3)
-![](https://img.shields.io/badge/Laravel-informational?style=flat-square&logo=laravel&logoColor=white&color=E4392C)
-![](https://img.shields.io/badge/Sass-informational?style=flat-square&logo=sass&logoColor=white&color=C36291)
-![](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=white&color=2B3A42)
-![](https://img.shields.io/badge/Babel-informational?style=flat-square&logo=babel&logoColor=white&color=F5DA55)
-![](https://img.shields.io/badge/Express-informational?style=flat-square&logo=express&logoColor=white&color=010101)
-![](https://img.shields.io/badge/MUI-informational?style=flat-square&logo=material-ui&logoColor=white&color=007FFF)
-![](https://img.shields.io/badge/Vim-informational?style=flat-square&logo=vim&logoColor=white&color=019030)
-![](https://img.shields.io/badge/Styled--Components-informational?style=flat-square&logo=styled-components&logoColor=white&color=DB7093)
-![](https://img.shields.io/badge/npm-informational?style=flat-square&logo=npm&logoColor=white&color=C2312E)
-![](https://img.shields.io/badge/yarn-informational?style=flat-square&logo=yarn&logoColor=white&color=3895BE)
-![](https://img.shields.io/badge/tailwindcss-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=16B7EB)
-![](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=7311EC)
-![](https://img.shields.io/badge/Jira-informational?style=flat-square&logo=jira&logoColor=white&color=0052CC)
+![javascript](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=F7DF1E)
+![react](https://img.shields.io/badge/React-%23327FC7.svg?style=flat-square&logo=react&logoColor=aDAFB&color=32363E)
+![html](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=white&color=E34F26)
+![css](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=CSS3&logoColor=white&color=1968a0)
+![git](https://img.shields.io/badge/Git-informational?style=flat-square&logo=Git&logoColor=white&color=F05032)
+![mysql](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
+![linux](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)
+![docker](https://img.shields.io/badge/docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)
+![github](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=GitHub&logoColor=white&color=181717)
+![vercel](https://img.shields.io/badge/Vercel-informational?style=flat-square&logo=Vercel&logoColor=white&color=000000)
+![heroku](https://img.shields.io/badge/Heroku-informational?style=flat-square&logo=Heroku&logoColor=white&color=430098)
+![markdown](https://img.shields.io/badge/Markdown-informational?style=flat-square&logo=Markdown&logoColor=white&color=000000)
+![mongodb](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=0FA24C)
+![graphql](https://img.shields.io/badge/GraphQL-informational?style=flat-square&logo=graphql&logoColor=white&color=D932A2)
+![php](https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&logoColor=white&color=666ba3)
+![laravel](https://img.shields.io/badge/Laravel-informational?style=flat-square&logo=laravel&logoColor=white&color=E4392C)
+![sass](https://img.shields.io/badge/Sass-informational?style=flat-square&logo=sass&logoColor=white&color=C36291)
+![webpack](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=white&color=2B3A42)
+![babel](https://img.shields.io/badge/Babel-informational?style=flat-square&logo=babel&logoColor=white&color=F5DA55)
+![express](https://img.shields.io/badge/Express-informational?style=flat-square&logo=express&logoColor=white&color=010101)
+![mui](https://img.shields.io/badge/MUI-informational?style=flat-square&logo=material-ui&logoColor=white&color=007FFF)
+![vim](https://img.shields.io/badge/Vim-informational?style=flat-square&logo=vim&logoColor=white&color=019030)
+![style-components](https://img.shields.io/badge/Styled--Components-informational?style=flat-square&logo=styled-components&logoColor=white&color=DB7093)
+![npm](https://img.shields.io/badge/npm-informational?style=flat-square&logo=npm&logoColor=white&color=C2312E)
+![yarn](https://img.shields.io/badge/yarn-informational?style=flat-square&logo=yarn&logoColor=white&color=3895BE)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=16B7EB)
+![bootstrap](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=7311EC)
+![jira](https://img.shields.io/badge/Jira-informational?style=flat-square&logo=jira&logoColor=white&color=0052CC)
 
 
 <!-- ![](https://img.shields.io/badge/Canva-informational?style=flat-sqaure&logo=Canva&logoColor=white&color=00C4CC) -->
@@ -76,7 +76,7 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=erfanansari&theme=highcontrast"/>
 </div>
 
-<details> 
+<details>
   <summary>More</summary>
   <div align="center">
     <br/>
