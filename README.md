@@ -2,9 +2,11 @@
 
 ## I'm Erfan
 
-I'm a Frontend Developer based in Iran
-
-I'd describe myself as a craftsman who crafts quality and accessible solutions 🌠
+I'm a Front-end software engineer who enjoys building things that live on the internet.
+I develop exceptional websites and web apps that provide intuitive, pixel-perfect user
+interfaces while being clean and efficient behind the scenes.
+I enjoy constantly learning and improving my skills with the many technologies that
+power the web.
 
 <!-- <img src="https://gpvc.arturio.dev/erfanansari" alt="profile views"> -->
 <p align="left"><img src="https://komarev.com/ghpvc/?username=erfanansari&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
@@ -40,34 +42,6 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions �
 [![tailwindcss](https://img.shields.io/badge/tailwindcss-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=16B7EB)](https://tailwindcss.com/)
 [![bootstrap](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=7311EC)](https://getbootstrap.com/)
 [![jira](https://img.shields.io/badge/Jira-informational?style=flat-square&logo=jira&logoColor=white&color=0052CC)](https://www.atlassian.com/software/jira)
-
-
-<!-- ![](https://img.shields.io/badge/Canva-informational?style=flat-sqaure&logo=Canva&logoColor=white&color=00C4CC) -->
-<!-- ![](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white) -->
-<!-- ![](https://img.shields.io/badge/Jekyll-informational?style=flat-sqaure&logo=Jekyll&logoColor=white&color=CC0000) -->
-<!-- ![](https://img.shields.io/badge/Arduino-informational?style=flat-square&logo=arduino&logoColor=white&color=00979D) -->
-<!-- ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=PostgreSQL&logoColor=white&color=4169E1) -->
-<!-- ![](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&color=F7931E) -->
-<!-- ![](https://img.shields.io/badge/Pandas-informational?style=flat-square&logo=pandas&logoColor=white&color=150458) -->
-<!-- ![](https://img.shields.io/badge/Numpy-informational?style=flat-square&logo=Numpy&logoColor=white&color=013243) -->
-<!-- ![](https://img.shields.io/badge/Flask-informational?style=flat-square&logo=Flask&logoColor=white&color=000000) -->
-<!-- ![](https://img.shields.io/badge/Django-F7931E?style=flat-square&logo=django&logoColor=white&color=092E20) -->
-<!-- ![](https://img.shields.io/badge/Plotly-informational?style=flat-square&logo=Plotly&logoColor=white&color=3F4F75) -->
-<!-- ![](https://img.shields.io/badge/Power%20BI-F7931E?style=flat-square&logo=powerbi&logoColor=white&color=F2C811) -->
-<!-- ![](https://img.shields.io/badge/Snowflake-F7931E?style=flat-square&logo=snowflake&logoColor=white&color=29B5E8) -->
-<!-- ![](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=0078D6) -->
-<!-- ![](https://img.shields.io/badge/Jupyter-informational?style=flat-square&logo=Jupyter&logoColor=white&color=F37626) -->
-<!-- ![](https://img.shields.io/badge/Notion-informational?style=flat-square&logo=Notion&logoColor=white&color=000000) -->
-<!-- ![](https://img.shields.io/badge/Jira-informational?style=flat-square&logo=jira&logoColor=white&color=0052CC) -->
-<!-- ![](https://img.shields.io/badge/OBS%20Studio-informational?style=flat-square&logo=obs-studio&logoColor=white&color=302E31) -->
-<!-- ![](https://img.shields.io/badge/Assembly%20-%23525252.svg?logo=mega&logoColor=white) -->
-<!-- ![](https://img.shields.io/badge/C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C) -->
-<!-- ![](https://img.shields.io/badge/C-informational?style=flat-square&logo=C&logoColor=white&color=A8B9CC) -->
-<!-- ![](https://img.shields.io/badge/Java-informational?style=flat-square&logo=Java&logoColor=white&color=007396) -->
-<!-- ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white&color=3776AB) -->
-<!-- ![](https://img.shields.io/badge/Dart-informational?style=flat-sqaure&logo=Dart&logoColor=white) -->
-<!-- ![](https://img.shields.io/badge/Bash_Scripting-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=4EAA25) -->
-
 
 ## 💻 My GitHub Statistics
 
