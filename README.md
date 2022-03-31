@@ -2,9 +2,9 @@
 
 ## I'm Erfan
 
-I'm a Front-end software engineer who enjoys building things that live on the internet.
+I'm a Front-end software engineer who enjoys building things that live on the internet. <br/>
 I develop exceptional websites and web apps that provide intuitive, pixel-perfect user
-interfaces while being clean and efficient behind the scenes.
+interfaces while being clean and efficient behind the scenes. <br/>
 I enjoy constantly learning and improving my skills with the many technologies that
 power the web.
 
