@@ -21,7 +21,7 @@ power the web.
 [![git](https://img.shields.io/badge/Git-informational?style=flat-square&logo=Git&logoColor=white&color=F05032)](https://git-scm.com/)
 [![mysql](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)](https://www.mysql.com/)
 [![linux](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)](https://www.kernel.org/)
-[![docker](https://img.shields.io/badge/docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)](https://www.docker.com/)
+[![docker](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)](https://www.docker.com/)
 [![github](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=GitHub&logoColor=white&color=181717)](https://github.com/)
 [![vercel](https://img.shields.io/badge/Vercel-informational?style=flat-square&logo=Vercel&logoColor=white&color=000000)](https://vercel.com/)
 [![gatsby](https://img.shields.io/badge/Gatsby-informational?style=flat-square&logo=gatsby&logoColor=white&color=663399)](https://www.gatsbyjs.com/)
