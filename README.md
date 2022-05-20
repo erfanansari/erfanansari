@@ -40,7 +40,7 @@ power the web.
 [![style-components](https://img.shields.io/badge/Styled--Components-informational?style=flat-square&logo=styled-components&logoColor=white&color=DB7093)](https://styled-components.com/)
 [![npm](https://img.shields.io/badge/npm-informational?style=flat-square&logo=npm&logoColor=white&color=C2312E)](https://www.npmjs.com/)
 [![yarn](https://img.shields.io/badge/yarn-informational?style=flat-square&logo=yarn&logoColor=white&color=3895BE)](https://yarnpkg.com/)
-[![tailwindcss](https://img.shields.io/badge/tailwindcss-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=16B7EB)](https://tailwindcss.com/)
+[![tailwindcss](https://img.shields.io/badge/Tailwindcss-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=16B7EB)](https://tailwindcss.com/)
 [![bootstrap](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=7311EC)](https://getbootstrap.com/)
 [![jira](https://img.shields.io/badge/Jira-informational?style=flat-square&logo=jira&logoColor=white&color=0052CC)](https://www.atlassian.com/software/jira)
 
