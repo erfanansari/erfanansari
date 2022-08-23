@@ -10,7 +10,7 @@ power the web.
 
 <!-- <img src="https://gpvc.arturio.dev/erfanansari" alt="profile views"> -->
 <p align="left"><img src="https://komarev.com/ghpvc/?username=erfanansari&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
-
+[![wakatime](https://wakatime.com/badge/user/dc6273a6-e578-4f0b-900f-f060bb3d0f3a.svg)](https://wakatime.com/@dc6273a6-e578-4f0b-900f-f060bb3d0f3a)
 
 ## 🛠️ Skills and Technologies
 [![typescript](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=TypeScript&logoColor=white&color=2D79C7)](https://typescriptlang.org/)
