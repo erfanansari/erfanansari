@@ -65,7 +65,7 @@ power the web.
 ## ✏ Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Virgool](https://virgool.io/@erfanansari)
+- [EBlog](https://blog.erfanansari.me)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🙋‍♂️ Contact
