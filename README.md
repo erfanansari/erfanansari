@@ -62,18 +62,17 @@ power the web.
   <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
 </details>
 
-## ✏ Articles
+## Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [EBlog](https://blog.erfanansari.me)
 <!-- BLOG-POST-LIST:END -->
 
-## 🙋‍♂️ Contact
+## ️Contact
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/erfanansari/"><img alt="Linkedin" title="linkedin.com/in/erfanansari" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:dev.erfanansari@gmail.com"><img alt="Gmail" title="dev.erfanansari@gmail.com" src="https://img.shields.io/badge/Gmail-DE4032?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/erfanansari"><img alt="Linkedin" title="https://linkedin.com/in/erfanansari" src="https://img.shields.io/badge/Linkedin-1C8CC5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/erfanansari/"><img alt="Linkedin" title="linkedin.com/in/erfanansari" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://t.me/eansarimehr"><img alt="Telegram" title="t.me/eansarimehr" src="https://img.shields.io/badge/Telegram-1C8CC5?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
