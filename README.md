@@ -70,11 +70,10 @@ power the web.
 
 ## ️Contact
 
-<p align="center">
-    <a href="mailto:dev.erfanansari@gmail.com"><img alt="Gmail" title="dev.erfanansari@gmail.com" src="https://img.shields.io/badge/Gmail-DE4032?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/erfanansari/"><img alt="Linkedin" title="linkedin.com/in/erfanansari" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://t.me/eansarimehr"><img alt="Telegram" title="t.me/eansarimehr" src="https://img.shields.io/badge/Telegram-1C8CC5?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
+<a href="mailto:dev.erfanansari@gmail.com"><img alt="Gmail" title="dev.erfanansari@gmail.com" src="https://img.shields.io/badge/Gmail-DE4032?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/erfanansari/"><img alt="Linkedin" title="linkedin.com/in/erfanansari" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://t.me/eansarimehr"><img alt="Telegram" title="t.me/eansarimehr" src="https://img.shields.io/badge/Telegram-1C8CC5?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
 
 <!--
 **erfanansari/erfanansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
