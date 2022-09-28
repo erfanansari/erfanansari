@@ -12,7 +12,7 @@ power the web.
 <p align="left"><img src="https://komarev.com/ghpvc/?username=erfanansari&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 <a href="https://wakatime.com/@dc6273a6-e578-4f0b-900f-f060bb3d0f3a"><img src="https://wakatime.com/badge/user/dc6273a6-e578-4f0b-900f-f060bb3d0f3a.svg" alt="Total time coded since Dec 14 2020" /></a>
 
-## 🛠️ Skills and Technologies
+## Skills and Technologies
 [![typescript](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=TypeScript&logoColor=white&color=2D79C7)](https://typescriptlang.org/)
 [![javascript](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=black&color=F7DF1E)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 [![nodejs](https://img.shields.io/badge/NodeJS-informational?style=flat-square&logo=node.js&logoColor=white&color=026e00)](https://nodejs.org/)
@@ -51,7 +51,7 @@ power the web.
 [![gatsby](https://img.shields.io/badge/Gatsby-informational?style=flat-square&logo=gatsby&logoColor=white&color=663399)](https://www.gatsbyjs.com/)
 [![jira](https://img.shields.io/badge/Jira-informational?style=flat-square&logo=jira&logoColor=white&color=0052CC)](https://www.atlassian.com/software/jira)
 
-## 💻 My GitHub Statistics
+## My GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=erfanansari&theme=highcontrast"/>
