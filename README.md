@@ -22,6 +22,7 @@ power the web.
 [![html](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=white&color=E34F26)](https://html.spec.whatwg.org/multipage/)
 [![css](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=CSS3&logoColor=white&color=1968a0)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![react-query](https://img.shields.io/badge/React_Query-informational?style=flat-square&logo=reactquery&logoColor=white&color=EF4444)](https://tanstack.com/query/v4)
+[![apollo-client](https://img.shields.io/badge/Apollo_Client-informational?style=flat-square&logo=apollographql&logoColor=ad9bf6&color=1b2240)](https://www.apollographql.com/docs/)
 [![express](https://img.shields.io/badge/Express-informational?style=flat-square&logo=express&logoColor=white&color=010101)](https://expressjs.com/)
 [![graphql](https://img.shields.io/badge/GraphQL-informational?style=flat-square&logo=graphql&logoColor=white&color=D932A2)](https://graphql.org/)
 [![webpack](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=white&color=2B3A42)](https://webpack.js.org/)
