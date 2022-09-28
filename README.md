@@ -36,6 +36,7 @@ power the web.
 [![tailwindcss](https://img.shields.io/badge/Tailwindcss-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=16B7EB)](https://tailwindcss.com/)
 [![bootstrap](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=7311EC)](https://getbootstrap.com/)
 [![style-components](https://img.shields.io/badge/Styled--Components-informational?style=flat-square&logo=styled-components&logoColor=white&color=DB7093)](https://styled-components.com/)
+[![chakra-ui](https://img.shields.io/badge/Chakra--UI-informational?style=flat-square&logo=chakra-ui&logoColor=white&color=319795)](https://www.atlassian.com/software/jira)
 [![sass](https://img.shields.io/badge/Sass-informational?style=flat-square&logo=sass&logoColor=white&color=C36291)](https://sass-lang.com/)
 [![vim](https://img.shields.io/badge/Vim-informational?style=flat-square&logo=vim&logoColor=white&color=019030)](https://www.vim.org/)
 [![npm](https://img.shields.io/badge/npm-informational?style=flat-square&logo=npm&logoColor=white&color=C2312E)](https://www.npmjs.com/)
