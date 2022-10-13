@@ -33,6 +33,7 @@ power the web.
 [![linux](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=black&color=FCC624)](https://www.kernel.org/)
 [![docker](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)](https://www.docker.com/)
 [![mongodb](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=0FA24C)](https://www.mongodb.com/)
+[![swagger](https://img.shields.io/badge/Swagger-informational?style=flat-square&logo=swagger&logoColor=white&color=38b832)](http://swagger.io/)
 [![nginx](https://img.shields.io/badge/Nginx-informational?style=flat-square&logo=nginx&logoColor=FEFEFE&color=00943B)](https://www.nginx.com/)
 [![material-ui](https://img.shields.io/badge/Material_UI-informational?style=flat-square&logo=mui&logoColor=white&color=007FFF)](https://mui.com/)
 [![chakra-ui](https://img.shields.io/badge/Chakra_UI-informational?style=flat-square&logo=chakra-ui&logoColor=white&color=319795)](https://chakra-ui.com/)
