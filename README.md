@@ -27,6 +27,7 @@ power the web.
 [![graphql](https://img.shields.io/badge/GraphQL-informational?style=flat-square&logo=graphql&logoColor=fff&color=D932A2)](https://graphql.org/)
 [![webpack](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=fff&color=2B3A42)](https://webpack.js.org/)
 [![eslint](https://img.shields.io/badge/Eslint-informational?style=flat-square&logo=eslint&logoColor=fff&color=4A2FC4)](https://eslint.org/)
+[![jest](https://img.shields.io/badge/Jest-informational?style=flat-square&logo=jest&logoColor=fff&color=CC431C)](https://jestjs.io/)
 [![cypress](https://img.shields.io/badge/Cypress-informational?style=flat-square&logo=cypress&logoColor=04C38E&color=48484b)](https://cypress.io/)
 [![babel](https://img.shields.io/badge/Babel-informational?style=flat-square&logo=babel&logoColor=000&color=F5DA55)](https://babeljs.io/)
 [![git](https://img.shields.io/badge/Git-informational?style=flat-square&logo=Git&logoColor=fff&color=F05032)](https://git-scm.com/)
