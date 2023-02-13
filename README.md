@@ -84,9 +84,9 @@ power the web.
 
 ## ️Contact
 
-<a href="mailto:dev.erfanansari@gmail.com"><img alt="Gmail" title="dev.erfanansari@gmail.com" src="https://img.shields.io/badge/Gmail-DE4032?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
-<a href="https://linkedin.com/in/erfanansari/"><img alt="Linkedin" title="linkedin.com/in/erfanansari" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
-<a href="https://twitter.com/eansarimehr"><img alt="Twitter" title="https://twitter.com/eansarimehr" src="https://img.shields.io/badge/Twitter-1BA2F3?style=for-the-badge&logo=twitter&logoColor=fff"/></a>
+<a target="_blank" href="mailto:dev.erfanansari@gmail.com"><img alt="Gmail" title="dev.erfanansari@gmail.com" src="https://img.shields.io/badge/Gmail-DE4032?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
+<a target="_blank" href="https://linkedin.com/in/erfanansari/"><img alt="Linkedin" title="linkedin.com/in/erfanansari" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
+<a target="_blank" href="https://twitter.com/eansarimehr"><img alt="Twitter" title="https://twitter.com/eansarimehr" src="https://img.shields.io/badge/Twitter-1BA2F3?style=for-the-badge&logo=twitter&logoColor=fff"/></a>
 
 
 <!--
