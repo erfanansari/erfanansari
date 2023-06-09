@@ -76,19 +76,6 @@ power the web.
   <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
 </details>
 
-## Articles
-
-<!-- BLOG-POST-LIST:START -->
-- [EBlog](https://blog.erfanansari.me)
-<!-- BLOG-POST-LIST:END -->
-
-## ️Contact
-
-<a target="_blank" href="mailto:dev.erfanansari@gmail.com"><img alt="Gmail" title="dev.erfanansari@gmail.com" src="https://img.shields.io/badge/Gmail-DE4032?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
-<a target="_blank" href="https://linkedin.com/in/erfanansari/"><img alt="Linkedin" title="linkedin.com/in/erfanansari" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
-<a target="_blank" href="https://twitter.com/eansarimehr"><img alt="Twitter" title="https://twitter.com/eansarimehr" src="https://img.shields.io/badge/Twitter-1BA2F3?style=for-the-badge&logo=twitter&logoColor=fff"/></a>
-
-
 <!--
 **erfanansari/erfanansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
