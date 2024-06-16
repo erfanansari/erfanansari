@@ -45,6 +45,7 @@ power the web.
 [![chakra-ui](https://img.shields.io/badge/Chakra_UI-informational?style=flat-square&logo=chakra-ui&logoColor=fff&color=319795)](https://chakra-ui.com/)
 [![bootstrap](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=fff&color=7311EC)](https://getbootstrap.com/)
 [![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-informational?style=flat-square&logo=tailwindcss&logoColor=16B7EBcolor=1e293b)](https://tailwindcss.com/)
+[![storybook](https://img.shields.io/badge/Storybook-informational?style=flat-square&logo=storybook&logoColor=white&color=FF4885)](https://storybook.js.org/)
 [![style-components](https://img.shields.io/badge/Styled_Components-informational?style=flat-square&logo=styled-components&logoColor=fff&color=DB7093)](https://styled-components.com/)
 [![sass](https://img.shields.io/badge/Sass-informational?style=flat-square&logo=sass&logoColor=fff&color=C36291)](https://sass-lang.com/)
 [![bash](https://img.shields.io/badge/Bash-informational?style=flat-square&logo=gnubash&logoColor=d9d9d9&color=222A35)](https://www.gnu.org/software/bash/)
