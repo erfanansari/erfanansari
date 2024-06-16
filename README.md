@@ -52,6 +52,7 @@ power the web.
 [![vim](https://img.shields.io/badge/Vim-informational?style=flat-square&logo=vim&logoColor=fff&color=019030)](https://www.vim.org/)
 [![neovim](https://img.shields.io/badge/Neovim-informational?style=flat-square&logo=neovim&logoColor=0b151b&color=8fff6d)](https://neovim.io/)
 [![strapi](https://img.shields.io/badge/Strapi-informational?style=flat-square&logo=strapi&logoColor=fff&color=121080)](https://strapi.io/)
+[![payload](https://img.shields.io/badge/Payload-informational?style=flat-square&logo=payloadcms&logoColor=fff&color=000)](https://payloadcms.com/)
 [![directus](https://img.shields.io/badge/Directus-informational?style=flat-square&logo=directus&logoColor=fff&color=6643FE)](https://directus.io/)
 [![markdown](https://img.shields.io/badge/Markdown-informational?style=flat-square&logo=Markdown&logoColor=fff&color=000000)](https://www.markdownguide.org/)
 [![npm](https://img.shields.io/badge/npm-informational?style=flat-square&logo=npm&logoColor=fff&color=C2312E)](https://www.npmjs.com/)
