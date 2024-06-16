@@ -17,7 +17,7 @@ power the web.
 [![javascript](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=000&color=F7DF1E)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 [![nodejs](https://img.shields.io/badge/NodeJS-informational?style=flat-square&logo=node.js&logoColor=fff&color=026e00)](https://nodejs.org/)
 [![go](https://img.shields.io/badge/Go-informational?style=flat-square&logo=Go&logoColor=000&color=79D4FD)](https://go.dev/)
-[![react](https://img.shields.io/badge/React-%23327FC7.svg?style=flat-square&logo=react&logoColor=aDAFB&color=32363E)](https://reactjs.org/)
+[![react](https://img.shields.io/badge/React-%23327FC7.svg?style=flat-square&logo=react&logoColor=aDAFB&color=32363E)](https://react.dev/)
 [![nextjs](https://img.shields.io/badge/NextJS-informational?style=flat-square&logo=next.js&logoColor=fff&color=000000)](https://nextjs.org/)
 [![html](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=fff&color=E34F26)](https://html.spec.whatwg.org/multipage/)
 [![css](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=CSS3&logoColor=fff&color=1968a0)](https://developer.mozilla.org/en-US/docs/Web/CSS)
