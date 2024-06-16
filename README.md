@@ -54,6 +54,7 @@ power the web.
 [![directus](https://img.shields.io/badge/Directus-informational?style=flat-square&logo=directus&logoColor=fff&color=6643FE)](https://directus.io/)
 [![markdown](https://img.shields.io/badge/Markdown-informational?style=flat-square&logo=Markdown&logoColor=fff&color=000000)](https://www.markdownguide.org/)
 [![npm](https://img.shields.io/badge/npm-informational?style=flat-square&logo=npm&logoColor=fff&color=C2312E)](https://www.npmjs.com/)
+[![pnpm](https://img.shields.io/badge/pnpm-informational?style=flat-square&logo=pnpm&logoColor=f69220&color=000)](https://pnpm.io/)
 [![yarn](https://img.shields.io/badge/yarn-informational?style=flat-square&logo=yarn&logoColor=fff&color=3895BE)](https://yarnpkg.com/)
 [![github](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=GitHub&logoColor=fff&color=181717)](https://github.com/)
 [![vercel](https://img.shields.io/badge/Vercel-informational?style=flat-square&logo=Vercel&logoColor=fff&color=000000)](https://vercel.com/)
