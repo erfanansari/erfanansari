@@ -9,7 +9,7 @@ I enjoy constantly learning and improving my skills with the many technologies t
 power the web.
 
 <!-- <img src="https://gpvc.arturio.dev/erfanansari" alt="profile views"> -->
-<p align="left"><img src="https://komarev.com/ghpvc/?username=erfanansari&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
+<p align="left" style="display: none;"><img src="https://komarev.com/ghpvc/?username=erfanansari&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 <a href="https://wakatime.com/@dc6273a6-e578-4f0b-900f-f060bb3d0f3a"><img src="https://wakatime.com/badge/user/dc6273a6-e578-4f0b-900f-f060bb3d0f3a.svg" alt="Total time coded since Dec 14 2020" /></a>
 
 ## Skills and Technologies
