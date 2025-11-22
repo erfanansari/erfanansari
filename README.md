@@ -2,11 +2,11 @@
 
 ## I'm Erfan
 
-I'm a Front-end software engineer who enjoys building things that live on the internet. <br/>
-I develop exceptional websites and web apps that provide intuitive, <br/> pixel-perfect user
-interfaces while being clean and efficient behind the scenes. <br/>
-I enjoy constantly learning and improving my skills with the many technologies that
-power the web.
+
+Frontend-focused Full Stack Engineer with 4+ years of expertise in building performant and scalable web applications using React and TypeScript. <br/>
+Specializing in performance optimization, testing, and CI/CD. Experienced in migrating large-scale projects, technical architecture design, and remote team leadership.
+
+
 
 <!-- <img src="https://gpvc.arturio.dev/erfanansari" alt="profile views"> -->
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=erfanansari&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p> -->
