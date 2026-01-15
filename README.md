@@ -66,7 +66,7 @@ Specializing in performance optimization, testing, and CI/CD. Experienced in mig
 ## My GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=erfanansari&theme=highcontrast"/>
+  <img src="https://streak-stats.demolab.com/?user=erfanansari&theme=highcontrast"/>
 </div>
 
 <details>
