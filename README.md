@@ -66,15 +66,17 @@ Specializing in performance optimization, testing, and CI/CD. Experienced in mig
 ## My GitHub Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=erfanansari&theme=highcontrast"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erfanansari&theme=github-compact&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </div>
 
 <details>
   <summary>More</summary>
   <div align="center">
     <br/>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="erfanansari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=erfanansari&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="erfanansari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanansari&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+    <img alt="erfanansari's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erfanansari&theme=github_dark" height="192px"/>
+    <img alt="erfanansari's Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erfanansari&theme=github_dark" height="192px"/>
+    <br/>
+    <img alt="erfanansari's Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erfanansari&theme=github_dark"/>
     <br/>
   </div>
   <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
