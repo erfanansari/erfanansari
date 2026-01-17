@@ -35,7 +35,6 @@ Specializing in performance optimization, testing, and CI/CD. Experienced in mig
 [![git](https://img.shields.io/badge/Git-informational?style=flat-square&logo=Git&logoColor=fff&color=F05032)](https://git-scm.com/)
 [![osx](https://img.shields.io/badge/OSX-informational?style=flat-square&logo=Apple&logoColor=fff&color=000)](https://support.apple.com/macos)
 [![linux](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=000&color=FCC624)](https://www.kernel.org/)
-[![windows](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=Windows&logoColor=ffff&color=00ADEF)](https://www.microsoft.com/en-us/windows/)
 [![mongodb](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=fff&color=0FA24C)](https://www.mongodb.com/)
 [![prisma](https://img.shields.io/badge/Prisma-informational?style=flat-square&logo=prisma&logoColor=fff&color=1A212C)](https://www.prisma.io/)
 [![docker](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=fff&color=2496ED)](https://www.docker.com/)
