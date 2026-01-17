@@ -60,6 +60,7 @@ Specializing in performance optimization, testing, and CI/CD. Experienced in mig
 [![yarn](https://img.shields.io/badge/yarn-informational?style=flat-square&logo=yarn&logoColor=fff&color=3895BE)](https://yarnpkg.com/)
 [![github](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=GitHub&logoColor=fff&color=181717)](https://github.com/)
 [![vercel](https://img.shields.io/badge/Vercel-informational?style=flat-square&logo=Vercel&logoColor=fff&color=000000)](https://vercel.com/)
+[![vercel](https://img.shields.io/badge/Coolify-informational?style=flat-square&logo=Coolify&logoColor=fff&color=8C51FF)](https://coolify.io/)
 [![gatsby](https://img.shields.io/badge/Gatsby-informational?style=flat-square&logo=gatsby&logoColor=fff&color=663399)](https://www.gatsbyjs.com/)
 [![jira](https://img.shields.io/badge/Jira-informational?style=flat-square&logo=jira&logoColor=fff&color=0052CC)](https://www.atlassian.com/software/jira)
 
